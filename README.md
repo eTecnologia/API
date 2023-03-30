@@ -11,7 +11,7 @@ No Design de uma API devemos levar em consideração os Requisitos Funcionais (R
 <BR>
 <B>Fundamentos</B><BR>
 <BR>
-<D>Artefatos para Desenvolvimento de API</D><BR>
+<a href="https://github.com/eTecnologia/API/wiki/Artefatos-para-desenvolvimento-de-APIs"><B>Artefatos para Desenvolvimento de API</D></a> Artetados são conjuntos de documentos, especificações, modelos e orientações uteis para o desenvolvimento de um produto.<BR>
 <BR>
 <strong>Boas Práticas de Design, Desenvolvimento e Documentação de API:</strong><BR>
 - <a href="https://github.com/OAI"><D>OpenAPI</D></a> é um padrão para design, desenvolvimento e documentação de API<BR>  
