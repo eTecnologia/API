@@ -7,6 +7,8 @@ No Design de uma API devemos levar em consideração os Requisitos Funcionais (R
 <BR>
 <B>Fundamentos</B>
 
-Artefatos para Desenvolvimento de API
-
-Boas Práticas de desenvolvimento de API
+<D>Artefatos para Desenvolvimento de API</D>
+<BR>
+<D>Boas Práticas de desenvolvimento de API</D>
+<BR>
+<a href="https://github.com/eTecnologia/API/wiki/Abordagens-para-Design-e-Desenvolvimento-de-API"> <D>Abordagens para Design e Desenvolvimento de API</D> </a> 
