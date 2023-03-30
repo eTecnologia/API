@@ -2,7 +2,11 @@
 </H2><B>API Application Program Interface</B></H2><BR>
 <BR> 
 <B>Definição:</B><BR>
-API (Application Program Interface) é uma interface que possibilita interações através de um contrato (dados e protocolo) bem definido entre componentes e/ou produtos de softwares geralmente baseada em um modelo requisição/resposta.<BR>
+API é uma interface que possibilita interações através de um contrato (dados e protocolo) bem definido entre componentes e/ou produtos de softwares geralmente baseada em um modelo requisição/resposta.<BR>
+O que significa API?<BR>
+API significa Application Program Interface (Interface de Programação de Aplicativos). No contexto das APIs, a palavra Aplicativo se refere a qualquer software com uma função distinta. A interface pode ser considerada como um contrato de serviço entre dois aplicativos. Este contrato define como os dois se comunicam usando um modelo de requisição e respostas, que é detalhada na documentação da API.<BR>
+<BR>
+<strong>Design da API</strong>
 No Design de uma API devemos levar em consideração os Requisitos Funcionais (RF) e Requisitos Não Funcionais (RNF), tais como: segurança, confidencialidade, desempenho, disponibilidade escalabilidade e tolerância a falha. Ainda é importante definir um formato de dados (JSON, XML, TXT e etc), estrutura e até tipos de dados. Outro aspecto relevante é definição de endpoints e chaves que serão utilizadas pelos consumidores.<BR> 
 <BR>
 <B>Fundamentos</B><BR>
