@@ -12,3 +12,4 @@ No Design de uma API devemos levar em consideração os Requisitos Funcionais (R
 <D>Boas Práticas de Design, Desenvolvimento e Documentação de API:</D><BR>
 - <a href="https://github.com/OAI"><D>OpenAPI</D> é um padrão para design, desenvolvimento e documentação de API<BR> </a>  
 - <a href="https://github.com/eTecnologia/API/wiki/Abordagens-para-Design-e-Desenvolvimento-de-API"> <D>Abordagens para Design e Desenvolvimento de API</D> </a> 
+  - <a href= "http://apistylebook.com/design/guidelines/">O API <D>Stylebook</D></a>contém diretrizes internas de design de API compartilhadas com a comunidade por algumas empresas e agências governamentais conhecidas.  
