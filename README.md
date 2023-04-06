@@ -9,7 +9,7 @@ API significa Application Program Interface (Interface de Programação de Aplic
 <strong>Design</strong><BR>
 No Design de uma API devemos levar em consideração os Requisitos Funcionais (RF) e Requisitos Não Funcionais (RNF), tais como: segurança, confidencialidade, desempenho, disponibilidade, escalabilidade e tolerância a falha. Ainda é importante definir um formato de dados (JSON, XML, TXT e etc), estrutura e tipos de dados. Outro aspecto relevante é definição de endpoints e chaves que serão utilizadas pelos usuários (componentes e produtos de software).<BR> 
 <BR>
-<B>API Fundamentos</B><BR>
+<a href="https://github.com/eTecnologia/API/wiki/API-Fundamentos"><B>API Fundamentos</B></a><BR>
 Explana como as APIs funcionam, quais são as principais tecnologias e ainda como desenhar, desenvolver e documentar APIs.<BR>
 <BR>
 <a href="https://github.com/eTecnologia/API/wiki/Artefatos-para-desenvolvimento-de-APIs"><B>Artefatos para Desenvolvimento de API</B></a>. Artetados são conjuntos de documentos, especificações, modelos e orientações uteis para o desenvolvimento de um produto.<BR>
