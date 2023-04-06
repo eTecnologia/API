@@ -12,7 +12,6 @@ No Design de uma API devemos levar em consideração os Requisitos Funcionais (R
 <B>API Fundamentos</B><BR>
 Explana como as APIs funcionam, quais são as principais tecnologias e ainda como desenhar, desenvolver e documentar APIs.<BR>
 <BR>
-<BR>
 <a href="https://github.com/eTecnologia/API/wiki/Artefatos-para-desenvolvimento-de-APIs"><B>Artefatos para Desenvolvimento de API</B></a>. Artetados são conjuntos de documentos, especificações, modelos e orientações uteis para o desenvolvimento de um produto.<BR>
 <BR>
 <strong>Boas Práticas de Design, Desenvolvimento e Documentação de API:</strong><BR>
