@@ -15,7 +15,7 @@ Explana como as APIs funcionam, quais são as principais tecnologias e ainda com
 <a href="https://github.com/eTecnologia/API/wiki/Artefatos-para-desenvolvimento-de-APIs"><B>Artefatos para Desenvolvimento de API</B></a>. Artetados são conjuntos de documentos, especificações, modelos e orientações uteis para o desenvolvimento de um produto.<BR>
 <BR>
 <strong>Boas Práticas de Design, Desenvolvimento e Documentação de API:</strong><BR>
-- <a href = "">B>Canvas API</B></a> É uma ferramenta simples, visual, colaborativa que ajuda no Desing de APIs<BR>
+- <a href = "">Canvas API</B></a> É uma ferramenta simples, visual, colaborativa que ajuda no Desing de APIs<BR>
 - <a href="https://github.com/OAI"><D>OpenAPI</D></a> é um padrão para design, desenvolvimento e documentação de API<BR>  
 - <a href="https://github.com/eTecnologia/API/wiki/Abordagens-para-Design-e-Desenvolvimento-de-API"><D>Code First e Design First</D></a> São abordagens para Design e Desenvolvimento de API<BR> 
 - <a href= "http://apistylebook.com/design/guidelines/">O API <B>Stylebook</B></a> contém diretrizes internas de design de API compartilhadas com a comunidade por algumas empresas e agências governamentais conhecidas.<BR>  
