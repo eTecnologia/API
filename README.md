@@ -20,3 +20,5 @@ Explana como as APIs funcionam, quais são as principais tecnologias e ainda com
 - <a href="https://github.com/eTecnologia/API/wiki/Abordagens-para-Design-e-Desenvolvimento-de-API"><D>Code First e Design First</D></a> São abordagens para Design e Desenvolvimento de API<BR> 
 - <a href= "http://apistylebook.com/design/guidelines/">O API <B>Stylebook</B></a> contém diretrizes internas de design de API compartilhadas com a comunidade por algumas empresas e agências governamentais conhecidas.<BR>  
 - <a href="https://swagger.io/ "><D>Swagger</D></a> é um projeto usado para descrever e documentar APIs.<BR> 
+<BR>
+<a href="https://voyager.postman.com/doc/postman-state-of-the-api-2022.pdf"><B>Postman´s State of the API 2022 report<B><BR>
