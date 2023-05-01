@@ -21,4 +21,5 @@ Explana como as APIs funcionam, quais são as principais tecnologias e ainda com
 - <a href= "http://apistylebook.com/design/guidelines/">O API <B>Stylebook</B></a> contém diretrizes internas de design de API compartilhadas com a comunidade por algumas empresas e agências governamentais conhecidas.<BR>  
 - <a href="https://swagger.io/ "><D>Swagger</D></a> é um projeto usado para descrever e documentar APIs.<BR> 
 <BR>
+Report é documento que demostra como a tecnologia está sendo utilizada, ele traz números, gráficos e informações relevantes:<BR> 
 <a href="https://voyager.postman.com/doc/postman-state-of-the-api-2022.pdf"><B>Postman´s State of the API 2022 report<B><BR>
